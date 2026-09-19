@@ -1,0 +1,6 @@
+{
+  "name": "AI-Enabled Pharmacy Management System with Medicine Demand Prediction",
+  "description": "Comprehensive DBMS college project for pharmacy operations, billing, inventory, WhatsApp invoicing, and AI medicine demand prediction.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
